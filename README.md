@@ -11,4 +11,4 @@ The software used may be downloaded from the following links:
 * [Cygwin](https://www.cygwin.com/)
 
 
-The 3D molecular structure of aspirin was downloaded from the PubChem database as an SDF file. The ChimeraX software was then used to convert this file to a PDB (Protein Data Bank) file. These intermediate files have been stored in a separate folder.
+The coordinates of the 3D molecular structure of aspirin was downloaded from the PubChem database as an SDF file. The ChimeraX software was then used to convert this file to a PDB (Protein Data Bank) file. These intermediate files have been stored in a separate folder.
