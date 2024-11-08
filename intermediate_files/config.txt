@@ -1,0 +1,11 @@
+receptor = 5ain.pdbqt
+ligand = Conformer3D_COMPOUND_CID_2244.pdbqt
+
+center_x=26.586
+center_y=-18.749
+center_z=20.286
+size_x=126
+size_y=126
+size_z=126
+
+exhaustiveness = 8
