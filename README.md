@@ -23,4 +23,6 @@ These files have been stored in the 'intermediate_files' folder.
 
 Separate files containing the grid parameters and docking parameters were also created using AutoDock and have been stored in the 'intermediate_files' folder.
 
+The output and log files contain the results that were written out by the program. They have been stored in the 'output_files' folder.
+
 A text file containing commands has been stored in the 'required_commands' folder. These commands are entered in the Windows Command Prompt.
